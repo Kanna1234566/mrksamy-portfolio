@@ -19,7 +19,7 @@
       "id": "5",
       "src": "./img/tag-1.png",
       "title": "Languages",
-      "description": "Proficient in JavaScript, HTML, CSS, Sass, Git, and C"
+      "description": "Proficient in JavaScript, HTML, CSS, Sass and Git"
     },
     {
       "id": "6",
@@ -65,6 +65,24 @@
       "src": "./img/modern-dashboard.png",
       "title": "AI-Powered Photo Gallery Application",
       "description": "Developed a dynamic photo gallery app with client-side AI-based face recognition using React. Designed and implemented the user interface using React, ensuring a responsive and user-friendly experience. Developed features for uploading, organizing, and managing photos within the gallery, including tagging, searching,and categorizing based on recognized faces. Added features for bulk photo uploads, batch face recognition processing, and intuitive interfaces for manual tagging and verification. Conducted comprehensive testing with Jest and Cypress, and deployed the application using Netlify/Vercel with CI/CD pipelines."
+    },
+    {
+      "id": "2",
+      "src": "./img/modern-dashboard.png",
+      "title": "Plots2U: Revolutionizing Real Estate Transactions",
+      "description": "Plots2U is a cutting-edge real estate platform aimed at transforming the way individuals and businesses engage in property transactions, whether buying, selling, or renting. The platform caters to a wide range of property types, including land, residential homes, and PG accommodations, ensuring a comprehensive solution for all real estate needs. Plots2U is developed using React for its robust frontend capabilities and Python for its powerful backend processing, creating a seamless and intuitive user experience.The platform is designed with a user-friendly interface that simplifies the navigation process."
+    },
+    {
+      "id": "2",
+      "src": "./img/modern-dashboard.png",
+      "title": "Nexemy: Transforming Tech Education",
+      "description": "Nexemy is a cutting-edge, interactive IT learning platform meticulously crafted to provide an extensive array of courses in key web development technologies, including HTML, CSS, JavaScript, Python, and many others. Developed using a powerful combination of React and Python, Nexemy stands out as a dynamic learning environment that fosters deep understanding and mastery of web development skills. offering a comprehensive learning experience that adapts to various skill levels. With its rich course catalog and emphasis on practical Nexemy empowers developers to not only acquire but also apply their knowledge in real-world scenarios."
+    },
+    {
+      "id": "2",
+      "src": "./img/modern-dashboard.png",
+      "title": "Mobile Attendance Tracker for IT Staff",
+      "description": "The IT Staff Attendance Application is a cutting-edge mobile solution developed using React Native, specifically designed for IT companies to streamline their employee attendance management. This app offers a seamless punch-in and punch-out system, integrated with precise location verification to ensure accuracy and accountability. the application provides an efficient way to track employee attendance, reducing the chances of discrepancies and enhancing overall workforce management. making it a reliable tool for IT companies aiming to enhance their operational efficiency and employee accountability."
     }
   ],
   "testimonial": [
@@ -79,8 +97,8 @@
       "id": "2",
       "count": "5",
       "description": "Kandhasamy's dedication and hard work have been recognized by his team lead and manager. He has consistently shown commitment to delivering high-quality work, often going above and beyond expectations.",
-      "author_name": "Manager",
-      "author_designation": "Ascending Software"
+      "author_name": "HR Manager",
+      "author_designation": "Roriri Software Solutions"
     }
   ]
 }

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Kandha from '../../assets/img/Kandha.jpeg';
-import resume from '../../assets/img/KandhaProfile.pdf';
+import resume from '../../assets/img/KandhasamyProfile.pdf';
 import linkedin from '../../assets/img/linkedin.png';
 import github from '../../assets/img/github.png'
 import {ReactJs, JavaScript, GitHub} from "../ThreeDScene/ThreeDScene";

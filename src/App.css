@@ -200,6 +200,7 @@ h2 {
   justify-content: space-between;
   gap: 32px;
   background-color: var(--bg-shade);
+  height: 80vh;
 }
 .icon {
   cursor: pointer;
@@ -440,6 +441,7 @@ h2 {
   justify-content: center;
   gap: 42.6px;
   width: 100%;
+  flex-wrap: wrap;
 }
 .portfolio--section--img {
   border-radius: 8px;
@@ -711,6 +713,10 @@ h2 {
     display: flex;
     flex-direction: column-reverse;
     padding-bottom: 70px;
+    height: 100%;
+  }
+  .skills--section--card {
+   width: 90%;
   }
   .hero--section--title,
   .hero--section-description,

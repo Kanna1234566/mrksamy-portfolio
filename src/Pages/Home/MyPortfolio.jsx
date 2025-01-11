@@ -49,6 +49,7 @@ export default function MyPortfolio() {
             data-aos="flip-up"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000"
+            style={{minWidth:300}}
           >
             <div className="portfolio--section--img">
               {/* <img src={item.src} alt="Placeholder" /> */}
